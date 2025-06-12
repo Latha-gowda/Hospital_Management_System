@@ -34,17 +34,8 @@ This is a modern web-based **Hospital Management System** built using [Streamlit
 
 ## 📸 Screenshots
 
+### 🏥 Dashboard
+![Dashboard](image/Screenshot(28).png)
 
-(images/Screenshot(28).png)
-
-
-(images/Screenshot(29).png)
-
-
-(images/Screenshot(30).png)
-
-(images/Screenshot(31).png)
-(images/Screenshot(32).png)
-
-
-
+### 🧑‍⚕️ Patient Page
+![Patient Page](screenshots/patient_page.png)
