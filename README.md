@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System - Streamlit App
+#  Hospital Management System - Streamlit App
 
 This is a modern web-based **Hospital Management System** built using [Streamlit]. It provides user-friendly interfaces for managing hospital workflows including Patients, Doctors, Receptionists, Nurses, Appointments, Billing, and more.
 
@@ -17,7 +17,7 @@ This is a modern web-based **Hospital Management System** built using [Streamlit
 ✅ **Treatment** – Track diagnoses, treatment progress, and reports.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool        | Use                                      |
 |-------------|-------------------------------------------|
@@ -34,8 +34,18 @@ This is a modern web-based **Hospital Management System** built using [Streamlit
 
 ## 📸 Screenshots
 
-### 🏥 Dashboard
+###  Dashboard
 <img src="image/Screenshot (28).png" width="700"/>
+<img src="image/Screenshot (29).png" width="700"/>
 
-### 🧑‍⚕️ Patient Page
-<img src="screenshots/patient_page.png" width="700"/>
+
+###  pharmacy Page
+<img src="image/Screenshot (30).png" width="700"/>
+
+### Docter Page
+<img src="image/Screenshot (31).png" width="700"/>
+
+### Billing Page
+<img src="image/Screenshot (32).png" width="700"/>
+
+
