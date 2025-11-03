@@ -1,4 +1,4 @@
-#  Hospital Management System - Streamlit App
+#  Hospital Management System
 
 This is a modern web-based **Hospital Management System** built using [Streamlit]. It provides user-friendly interfaces for managing hospital workflows including Patients, Doctors, Receptionists, Nurses, Appointments, Billing, and more.
 
